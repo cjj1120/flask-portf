@@ -9,7 +9,7 @@ lightest white for text: rgb(255, 255, 255);
 
 #RUN FLASK 
 export FLASK_ENV=development
-export FLASK_APP=hello.py
+export FLASK_APP=app.py
 flask run 
 
 
